@@ -5,7 +5,7 @@ const App = () => {
   return (
     <>
       <div className="App">
-        <header>The pointing gentlemen</header>
+        <header className="main-title">The pointing gentlemen</header>
         <GentlemenInfo />
       </div>
     </>
